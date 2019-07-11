@@ -1,8 +1,8 @@
 {
-    "appTitle": "彩虹工具箱",
-    "appDesc": "彩虹工具箱初代版本，提供了大量常用的小工具，使用方便，操作简单。",
-    "appVersion": "1.0.0",
-    "appDownLink": "",
-    "forceUpdate": false,
-    "updateDate": "2019年07月01日"
+  "appTitle": "彩虹工具箱",
+  "appDesc": "彩虹工具箱新版本来啦！新添加了《设计师工具》分类，新增了7个工具，修复了部分问题。<br><b>当前版本更新有问题，请点击左侧菜单《关于软件》中手动检查更新，或直接用浏览器打开网址 https://rainbowbyte.com</b>",
+  "appVersion": "1.1.11",
+  "appDownLink": "http://t.cn/AiWZAzVo",
+  "forceUpdate": false,
+  "updateDate": "2019年07月11日"
 }
