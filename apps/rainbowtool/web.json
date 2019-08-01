@@ -1,0 +1,28 @@
+{
+  "state_code": "success",
+  "update_time": "2019年07月31日22:28:45",
+  "count": 10,
+  "webs": [
+    {
+      "title": "彩虹官网",
+      "desc": "就是此软件开发的官网，不定期发布软件通知、软件教程等相关内容，希望大家可以订阅。",
+      "url": "http://rainbow.com/web/rainbow.json",
+      "subscribe": false,
+      "type": 0
+    },
+    {
+      "title": "小刀资源网",
+      "desc": "小刀娱乐网是免费网络资源分享平台，每天更新活动、绿色软件、源码等相关内容。",
+      "url": "http://rainbow.com/web/xd0.json",
+      "subscribe": false,
+      "type": 1
+    },
+    {
+      "title": "爱Q生活网",
+      "desc": "爱Q生活网提供最新QQ活动、QQ技巧、QQ软件,努力打造为一个最全QQ活动网,还有电脑技巧以及其他日常信息 游戏资讯等 让我们的Q生活更加精彩。",
+      "url": "http://rainbow.com/web/iqshw.json",
+      "subscribe": false,
+      "type": 1
+    }
+  ]
+}
