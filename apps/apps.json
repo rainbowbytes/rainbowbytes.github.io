@@ -1,0 +1,26 @@
+[
+    {
+        "title": "彩虹工具箱",
+        "icon": "https://static.rainbowbyte.com/images/rainbowtoolbox/icon.png",
+        "link": "https://rainbowbyte.com/app/rainbowtoolbox.html",
+        "desc": "彩虹工具箱提供了大量常用的小工具，并根据小工具的用途分类为 生活娱乐、 加密解密、 数据计算、编码转换、 图片视频、 网络工具等分类。",
+        "type": 0,
+        "price": 0
+    },
+    {
+        "title": "彩虹白噪音",
+        "icon": "https://static.rainbowbyte.com/images/rainbowwhitenoise/icon.png",
+        "link": "https://rainbowbyte.com/app/rainbowwhitenoise.html",
+        "desc": "彩虹白噪音提供了大量环境下的白噪音，帮助您获得放松、专注的体验，提升工作、学习、睡眠时的专注度……",
+        "type": 1,
+        "price": 12
+    },
+    {
+        "title": "彩虹下载器",
+        "icon": "https://static.rainbowbyte.com/images/rainbowdown/icon.png",
+        "link": "https://rainbowbyte.com/app/rainbowdown.html",
+        "desc": "彩虹下载器提供了下载M3U8/RTMP格式的直播或视频，支持批量进行保存……",
+        "type": 1,
+        "price": 19
+    }
+]
