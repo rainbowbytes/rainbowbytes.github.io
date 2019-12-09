@@ -12,5 +12,12 @@
         "article": "https://bbs.qxzy.top/t/134.html",
         "type": 1,
         "sort": 0
+    },
+    {
+        "name": "香菇的博客",
+        "url": "https://blog.siitake.cn/",
+        "article": "https://blog.siitake.cn/rainbowtoolbox.html",
+        "type": 1,
+        "sort": 0
     }
 ]
