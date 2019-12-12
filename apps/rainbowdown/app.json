@@ -1,8 +1,8 @@
 {
   "appTitle": "彩虹下载器",
-  "appDesc": "彩虹下载器是一款支持M3U8格式以及RTMP协议视频和直播的下载器，支持多任务同时录制下载。",
-  "appVersion": "1.0.0",
+  "appDesc": "此版本优化了界面，添加了更多实用的功能和小工具。",
+  "appVersion": "1.2.15",
   "appDownLink": "http://t.cn/Ai81sFMX",
   "forceUpdate": false,
-  "updateDate": "2019年08月29日"
+  "updateDate": "2019年12月13日"
 }
