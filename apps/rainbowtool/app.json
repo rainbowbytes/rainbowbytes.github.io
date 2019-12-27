@@ -1,8 +1,8 @@
 {
   "appTitle": "彩虹工具箱",
-  "appDesc": "新版本又来啦！添加更多实用的功能，优化了界面样式，新增对Win32位系统的支持<br><b>这个版本共计新添加30个新工具，完善了部分工具的功能。</b>",
-  "appVersion": "1.4.36",
+  "appDesc": "新版本更新啦！添加了更多实用工具，快点更新体验吧！<br><b>这个版本共计新添加9个新工具，修复了部分工具的问题。</b>",
+  "appVersion": "1.4.51",
   "appDownLink": "http://t.cn/AiWZAzVo",
   "forceUpdate": false,
-  "updateDate": "2019年11月30日"
+  "updateDate": "2019年12月28日"
 }
