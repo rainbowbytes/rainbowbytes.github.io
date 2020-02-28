@@ -18,7 +18,7 @@
         "title": "彩虹下载器",
         "icon": "https://static.rainbowbyte.com/images/rainbowdown/icon.png",
         "link": "https://rainbowbyte.com/app/rainbowdown.html",
-        "desc": "彩虹下载器提供了下载M3U8/RTMP格式的直播或视频，支持批量进行保存……",
+        "desc": "彩虹下载器提供了下载M3U8/RTMP格式的直播或视频，支持批量进行保存，同时添加了部分视频音频工具，可以轻松编辑视频音频……",
         "type": 1,
         "price": 19
     },
@@ -26,7 +26,7 @@
         "title": "彩虹笔记",
         "icon": "https://static.rainbowbyte.com/images/rainbownote/icon.png",
         "link": "https://rainbowbyte.com/app/rainbownote.html",
-        "desc": "一款支持 markdown 语法以及图表、数学公式、五线谱等扩展功能的编辑器……",
+        "desc": "一款支持 markdown 语法以及图表、数学公式、五线谱等扩展功能的编辑器，同时支持部分工具进行扩展，更方便编写内容……",
         "type": 1,
         "price": 28
     }
