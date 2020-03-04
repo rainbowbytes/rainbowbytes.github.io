@@ -1,0 +1,5 @@
+{
+    "version":"4.2.2",
+    "darwin":"https://ffmpeg.zeranoe.com/builds/macos64/static/ffmpeg-4.2.2-macos64-static.zip",
+    "win32":"https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-4.2.2-win64-static.zip"
+}
