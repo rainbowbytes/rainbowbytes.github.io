@@ -1,7 +1,7 @@
 {
   "appTitle": "彩虹下载器",
-  "appDesc": "此版本优化了界面，添加了更多实用的功能和小工具。",
-  "appVersion": "1.2.15",
+  "appDesc": "新版本修复了部分问题，添加更多功能，快点更新吧！<br><b>新版本会清空历史下载记录，请备份需要的历史记录。</b>",
+  "appVersion": "1.3.12",
   "appDownLink": "http://t.cn/Ai81sFMX",
   "forceUpdate": false,
   "updateDate": "2019年12月13日"
