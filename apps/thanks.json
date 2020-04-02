@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "果核剥壳",
         "url": "https://www.ghpym.com/",
         "article": "https://www.ghpym.com/chgjx.html",
@@ -17,6 +16,13 @@
         "name": "香菇的博客",
         "url": "https://blog.siitake.cn/",
         "article": "https://blog.siitake.cn/rainbowtoolbox.html",
+        "type": 1,
+        "sort": 0
+    },
+    {
+        "name": "coolexe",
+        "url": "https://www.coolexe.com/",
+        "article": "https://www.coolexe.com/230.html",
         "type": 1,
         "sort": 0
     }
