@@ -25,5 +25,12 @@
         "article": "https://www.coolexe.com/230.html",
         "type": 1,
         "sort": 0
+    },
+    {
+        "name": "Moe Pony Blog",
+        "url": "http://blog.ikun.wtf/",
+        "article": "http://blog.ikun.wtf/post/20.html",
+        "type": 1,
+        "sort": 0
     }
 ]
