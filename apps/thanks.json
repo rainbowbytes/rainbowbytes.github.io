@@ -32,5 +32,12 @@
         "article": "http://blog.ikun.wtf/post/20.html",
         "type": 1,
         "sort": 0
+    },
+    {
+        "name": "蓝叶资源网",
+        "url": "https://www.lanyezy.com/",
+        "article": "https://www.lanyezy.com/article/216.html",
+        "type": 1,
+        "sort": 0
     }
 ]
