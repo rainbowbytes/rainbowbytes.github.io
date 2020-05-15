@@ -39,5 +39,12 @@
         "article": "https://www.lanyezy.com/article/216.html",
         "type": 1,
         "sort": 0
+    },
+    {
+        "name": "今天也很开心鸭",
+        "url": "https://wbczblog.postach.io/",
+        "article": "https://wbczblog.postach.io/post/shen-ji-gong-ju-xiang-yi-mei",
+        "type": 1,
+        "sort": 0
     }
 ]
