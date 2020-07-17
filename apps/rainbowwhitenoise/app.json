@@ -1,8 +1,8 @@
 {
   "appTitle": "彩虹白噪音",
-  "appDesc": "当前版本优化界面显示，提升运行速度，同时添加了TouchBar的支持。",
-  "appVersion": "2.3.0",
+  "appDesc": "当前版本优化界面显示，添加了番茄钟、播放合集、自定义白噪音等功能。",
+  "appVersion": "2.6.3",
   "appDownLink": "http://t.cn/Aij2FZr7",
   "forceUpdate": false,
-  "updateDate": "2019年09月07日"
+  "updateDate": "2020年07月18日"
 }
