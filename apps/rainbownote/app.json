@@ -1,8 +1,8 @@
 {
   "appTitle": "彩虹笔记",
-  "appDesc": "彩虹笔记是一款markdown编辑器，支持markdown语法及扩展功能。",
-  "appVersion": "1.0.0",
+  "appDesc": "这次更新重写了大部分内容，同时修复部分问题，添加更多的功能，快来更新吧！",
+  "appVersion": "1.2.6",
   "appDownLink": "http://t.cn/A6h1OjUa",
   "forceUpdate": false,
-  "updateDate": "2020年02月23日"
+  "updateDate": "2020年08月31日"
 }
