@@ -1,6 +1,5 @@
 {
-  "vip": [
-    {
+  "vip": [{
       "title": "彩虹白噪音",
       "icon": "https://static.rainbowbyte.com/images/rainbowwhitenoise/icon.png",
       "link": "https://rainbowbyte.com/app/rainbowwhitenoise.html",
@@ -13,15 +12,20 @@
       "link": "https://rainbowbyte.com/app/rainbowdown.html",
       "desc": "彩虹下载器提供了下载M3U8/RTMP格式的直播或视频，支持批量进行保存……",
       "price": 19
+    },
+    {
+      "title": "彩虹番茄钟",
+      "icon": "https://static.rainbowbyte.com/images/rainbowpomodoro/icon.png",
+      "link": "https://rainbowbyte.com/app/rainbowpomodoro.html",
+      "desc": "彩虹番茄钟一款支持以项目方式管理的番茄钟软件，快来下载管理您的时间吧！",
+      "price": 12
     }
   ],
-  "other": [
-    {
-      "title": "彩虹下载器",
-      "icon": "https://static.rainbowbyte.com/images/rainbowtoolbox/icon.png",
-      "link": "https://rainbowbyte.com/app/rainbowtoolbox.html",
-      "desc": "彩虹工具箱提供了大量常用的小工具，并根据小工具的用途分类为 生活娱乐、 加密解密、 数据计算……",
-      "price": 0
-    }
-  ]
+  "other": [{
+    "title": "彩虹下载器",
+    "icon": "https://static.rainbowbyte.com/images/rainbowtoolbox/icon.png",
+    "link": "https://rainbowbyte.com/app/rainbowtoolbox.html",
+    "desc": "彩虹工具箱提供了大量常用的小工具，并根据小工具的用途分类为 生活娱乐、 加密解密、 数据计算……",
+    "price": 0
+  }]
 }
