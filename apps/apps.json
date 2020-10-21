@@ -37,5 +37,13 @@
         "desc": "《彩虹单词本》是一款英语学习软件，支持将电影或书籍等资料统计词频后进行排序，筛选出比较重要的单词，更清晰的了解学习英文资料的软件……",
         "type": 2,
         "price": 28
+    },
+    {
+        "title": "彩虹番茄钟",
+        "icon": "https://static.rainbowbyte.com/images/rainbowpomodoro/icon.png",
+        "link": "https://rainbowbyte.com/app/rainbowpomodoro.html",
+        "desc": "彩虹番茄钟一款支持以项目方式管理的番茄钟软件，快来下载管理您的时间吧！",
+        "type": 1,
+        "price": 12
     }
 ]
