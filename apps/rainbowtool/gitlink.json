@@ -1,0 +1,6 @@
+{
+    "test": "events",
+    "select": "github.com.cnpmjs.org",
+    "webs": ["github.com.cnpmjs.org", "hub.fastgit.org"],
+    "update": 1607270401000
+}
