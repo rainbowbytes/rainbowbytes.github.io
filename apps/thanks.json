@@ -60,5 +60,12 @@
         "article": "http://www.cz2019.xyz/cunzhang2019/wap_doc/18518323.html",
         "type": 1,
         "sort": 0
+    },
+    {
+        "name": "孙同学的博客",
+        "url": "https://www.sun0623.topz",
+        "article": "https://www.sun0623.top/#/links",
+        "type": 1,
+        "sort": 0
     }
 ]
