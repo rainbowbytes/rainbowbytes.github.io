@@ -74,5 +74,12 @@
         "article": "https://www.xitmi.com/4859.html",
         "type": 1,
         "sort": 0
+    },
+    {
+        "name": "小T博客",
+        "url": "https://www.tyhguan.cn",
+        "article": "https://www.tyhguan.cn/2166.html",
+        "type": 1,
+        "sort": 0
     }
 ]
