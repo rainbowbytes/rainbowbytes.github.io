@@ -1,8 +1,8 @@
 {
   "appTitle": "彩虹工具箱",
-  "appDesc": "新版本更新啦！当前版本是大更新！<br><b>全新设计全新功能，快来体验吧！</b>",
-  "appVersion": "2.0.0",
+  "appDesc": "修复部分工具异常！<br><b>优化运行资源消耗！</b>",
+  "appVersion": "2.0.2",
   "appDownLink": "https://rainbowbyte.com/app/rainbowtoolbox.html",
-  "forceUpdate": false,
-  "updateDate": "2021年01月15日"
+  "forceUpdate": true,
+  "updateDate": "2021年04月17日"
 }
