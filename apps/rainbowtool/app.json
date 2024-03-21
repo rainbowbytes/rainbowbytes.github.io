@@ -1,6 +1,6 @@
 {
   "appTitle": "彩虹工具箱",
-  "appDesc": "修复部分工具异常！<br><b>优化运行资源消耗！</b>",
+  "appDesc": "重写了软件的UI界面<br>重写所有的小工具<br>增加暗黑主题<br>优化了软件的性能，以及资源占用",
   "appVersion": "2.0.2",
   "appDownLink": "https://rainbowbyte.com/app/rainbowtoolbox.html",
   "forceUpdate": true,
