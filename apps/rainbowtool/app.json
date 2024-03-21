@@ -1,8 +1,8 @@
 {
   "appTitle": "彩虹工具箱",
   "appDesc": "重写了软件的UI界面<br>重写所有的小工具<br>增加暗黑主题<br>优化了软件的性能，以及资源占用",
-  "appVersion": "2.0.2",
-  "appDownLink": "https://rainbowbyte.com/app/rainbowtoolbox.html",
+  "appVersion": "3.0.0",
+  "appDownLink": "https://rainbowbyte.com/#/app/1",
   "forceUpdate": true,
-  "updateDate": "2021年04月17日"
+  "updateDate": "2024年03月22日"
 }
